@@ -1,11 +1,11 @@
-#willy aditia
-#(41823010002)
-#tugas 2
 
-part = input("Pilih bagian (A/B): ").upper()
 
-# Memeriksa input yang valid dan menjalankan sesuai pilihan
-if part == 'A':
+
+
+part = input("Pilih bagian (A/B): ").upper()                                #willy aditia
+
+# Memeriksa input yang valid dan menjalankan sesuai pilihan                 #(41823010002)
+if part == 'A':                                                             #tugas 2
     print("Bagian A:")
     n = int(input("Masukkan nilai n: "))
     for i in range(n):
@@ -24,6 +24,3 @@ else:
 
 
 
-#willy aditia
-#(41823010002)
-#tugas 2
